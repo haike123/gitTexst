@@ -1,0 +1,13 @@
+{
+    "name": "haike123/gittexst",
+    "description": "woshi jkh",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "haibo wang",
+            "email": "258604677@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
